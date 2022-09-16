@@ -15,3 +15,7 @@ and other functionality like cut, copy, paste, undo, redo, find, replace.
 Text editor also contain function like to change background, font, font color.You can also bold, italic, underline the text.
 
 You can zoom in and zoom out the text.
+
+Technology used: Python, Tkinter
+
+IDE: PyCharm
