@@ -19,3 +19,5 @@ You can zoom in and zoom out the text.
 Technology used: Python, Tkinter
 
 IDE: PyCharm
+
+dist folder contain exe file of this program you can download it and make sure to download leafpad_icon.ico and leafpad_image.png and place all the three file in same directory.
